@@ -1,4 +1,4 @@
-# Chap. 5: Loading, Linking. and Initializing
+# Chap. 5: Loading, Linking, and Initializing
 
 ## 5.5 Initialization
 * initializationとはclassかinterfaceのinitialization method(sec 2.9)を実行すること
