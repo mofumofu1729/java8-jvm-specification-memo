@@ -1,5 +1,9 @@
 # Chap2. The Structure of the Java Virtual Machine
 
+## 2.1 The class File Format
+* JVMで実行されるコードはclass file formatで表現されている.
+* class file formatの詳細は4章で説明.
+
 ## 2.9 Special Methods
 * Initialization methodなど
 * `<init>`
