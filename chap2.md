@@ -4,6 +4,11 @@
 * JVMで実行されるコードはclass file formatで表現されている.
 * class file formatの詳細は4章で説明.
 
+## 2.2 Data Types
+* JVMにはprimitive型とreference型がある
+* primitive型ごとに命令がある: e.g.) iadd, ladd, fadd, dadd
+* JVMはobjectを明示的にサポート. オブジェクトを指す値がreference型.
+
 ## 2.9 Special Methods
 * Initialization methodなど
 * `<init>`
