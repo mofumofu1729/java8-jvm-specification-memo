@@ -9,6 +9,21 @@
 * primitive型ごとに命令がある: e.g.) iadd, ladd, fadd, dadd
 * JVMはobjectを明示的にサポート. オブジェクトを指す値がreference型.
 
+## 2.3 Primitive Types and Values
+* numeric types
+  - integral types
+    + byte
+    + short
+    + int
+    + long
+    + char
+  - floating-point types
+    + float
+    + double
+  - boolean type
+  - returnAddress type
+    + returnAddress 型のみ直接にJava言語の型と対応づいていない．
+
 ## 2.9 Special Methods
 * Initialization methodなど
 * `<init>`
