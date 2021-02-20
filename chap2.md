@@ -24,6 +24,12 @@
   - returnAddress type
     + returnAddress 型のみ直接にJava言語の型と対応づいていない．
 
+## 2.4 Reference Types and Values
+* Reference Typesは以下の３つ
+  - class types
+  - array types
+  - interface types
+
 ## 2.9 Special Methods
 * Initialization methodなど
 * `<init>`
