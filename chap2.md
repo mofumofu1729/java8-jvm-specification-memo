@@ -29,6 +29,8 @@
   - class types
   - array types
   - interface types
+* Reference valueはnullを取ることがあり．
+* Null値が具体的なencodingはJVMの仕様書で規定せず
 
 ## 2.9 Special Methods
 * Initialization methodなど
