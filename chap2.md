@@ -29,8 +29,23 @@
   - class types
   - array types
   - interface types
+* Array型(wIP)
 * Reference valueはnullを取ることがあり．
 * Null値が具体的なencodingはJVMの仕様書で規定せず
+
+## 2.5 Run-Time Data Areas
+
+### 2.5.1 The pc Register
+
+### 2.5.2 Java Virtual Machine Stacks
+
+### 2.5.3 Heap
+
+### 2.5.4 Method Area
+
+### 2.5.5 Run-Time Constant Pool
+
+### 2.5.6 Native Method Stacks
 
 ## 2.9 Special Methods
 * Initialization methodなど
