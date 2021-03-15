@@ -36,6 +36,11 @@
 ## 2.5 Run-Time Data Areas
 
 ### 2.5.1 The pc Register
+* JVMは同時に複数のスレッドを実行できる
+* スレッドは各自pc(program counter)レジスタを持つ
+* nativeメソッドでなければ，pcレジスタはJVMの命令のアドレスを持つ
+* nativeメソッドなら，pcレジスタはundefined
+* JVMのpcレジスタは十分にwideなので，returnAddressや特定の環境のnativeポインタも保持できる.
 
 ### 2.5.2 Java Virtual Machine Stacks
 
