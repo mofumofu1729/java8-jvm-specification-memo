@@ -43,6 +43,7 @@
 * JVMのpcレジスタは十分にwideなので，returnAddressや特定の環境のnativeポインタも保持できる.
 
 ### 2.5.2 Java Virtual Machine Stacks
+* スレッドごとにスタックがある
 
 ### 2.5.3 Heap
 
